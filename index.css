@@ -1,0 +1,22 @@
+h1{
+    color: blueviolet;
+    border-style: dashed;
+    border-width: 4px 5px 7px 6px;
+    border-color: green blue red;
+}
+h3{
+    border-left-style: solid;
+    border-width: 10px;
+    border-color: red;
+}
+h4{
+    border: 5px solid green;
+    border-radius: 10px;
+}
+.arrow-right {
+    width: 0; 
+    height: 0; 
+    border-top: 60px solid transparent;
+    border-bottom: 60px solid transparent;
+    border-left: 60px solid green;
+  }
